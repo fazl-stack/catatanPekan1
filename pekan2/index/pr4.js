@@ -1,3 +1,5 @@
+//ARRAY , FUNCTION
+
 // // Membuat Array
 // let cars = ['volvo', 'BMW', 'Saab']
 let namaBINATANG = ['ANJING', 'MONYET', 'AYAM']
@@ -44,6 +46,9 @@ namaBINATANG.forEach(element => {
     console.log(element)
     
 })
+
+
+
 
 
 

@@ -2,7 +2,7 @@
 
 // (||)
 //hasilnya true selagi ada true
-/*
+
 console.log(true || false || false);
 
 // (&&)
@@ -38,7 +38,7 @@ var namaSayur = prompt('siapa lu?');
  };
 
 //Simplified Calculator
-*/ 
+
 let lagi = true
  
    while(lagi)
